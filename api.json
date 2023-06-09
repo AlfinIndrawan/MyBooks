@@ -1,5 +1,33 @@
 [
   {
+    "title": "iOS 15 Programming for Beginners",
+    "authors": [
+      "Ahmad Sahar",
+      "Craig Clayton"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2021-12-24",
+    "description": "Learn iOS app development and work with Xcode 13 and Apple's iOS 15 simulators Key Features Explore the latest features of Xcode 13 and the Swift 5.5 programming language in this updated sixth edition Start your iOS programming career and have fun building your own iOS apps Discover the new features of iOS 15 such as Mac Catalyst, SwiftUI, Swift Concurrency, and SharePlay Book Description With almost 2 million apps on the App Store, iOS mobile apps continue to be incredibly popular. Anyone can reach millions of customers around the world by publishing their apps on the App Store. iOS 15 Programming for Beginners is a comprehensive introduction for those who are new to iOS. It covers the entire process of learning the Swift language, writing your own app, and publishing it on the App Store. Complete with hands-on tutorials, projects, and self-assessment questions, this easy-to-follow guide will help you get well-versed with the Swift language to build your apps and introduce exciting new technologies that you can incorporate into your apps. You'll learn how to publish iOS apps and work with Mac Catalyst, SharePlay, SwiftUI, Swift concurrency, and much more. By the end of this iOS development book, you'll have the knowledge and skills to write and publish interesting apps, and more importantly, to use the online resources available to enhance your app development journey. What you will learn Get to grips with the fundamentals of Xcode 13 and Swift 5.5, the building blocks of iOS development Understand how to prototype an app using storyboards Discover the Model-View-Controller design pattern and how to implement the desired functionality within an app Implement the latest iOS features such as Swift Concurrency and SharePlay Convert an existing iPad app into a Mac app with Mac Catalyst Design, deploy, and test your iOS applications with design patterns and best practices Who this book is for This book is for anyone who has programming experience but is new to Swift and iOS app development. Basics knowledge of programming, including loops, boolean, and so on, is necessary.",
+    "image": "http://books.google.com/books/content?id=-J1WEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 784,
+    "isbn10": "1801812136",
+    "isbn13": "9781801812139",
+    "googleBooks": {
+      "id": "-J1WEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=-J1WEAAAQBAJ&printsec=frontcover&dq=intitle:IOS+15+Programming+for+Beginners:+Kickstart+Your+Mobile+App+Development+Journey+by+Building+IOS+Apps+with+Swift+5.5+and+Xcode+13,+6th+Edition+by+Ahmad+Sahar+and+Craig+Clayton&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-06-09T13:26:22.000Z"
+  },
+  {
     "title": "RxSwift (Fourth Edition)",
     "authors": [
       "raywenderlich Tutorial Team",
