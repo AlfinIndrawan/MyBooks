@@ -19,6 +19,8 @@ This repository is used to track the books I'm reading these days. hover the boo
 
 <!--end:bookshelf-action-->
 
+[![Book cover of Hacking With MacOS by Paul Hudson](https://iosfeeds.com/media/book-covers/hacking-with-macos-paul-hudson.png)](https://github.com/AlfinIndrawan/MyBooks/issues/5 "Hacking with macOS by Paul Hudson")
+
 - Powered by: [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action)
 
 [![Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action/blob/HEAD/assets/logo.svg)](https://github.com/AnandChowdhary/bookshelf-action)
