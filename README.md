@@ -20,7 +20,7 @@ This repository is used to track the books I'm reading these days. hover the boo
 <!--end:bookshelf-action-->
 [<img src="https://iosfeeds.com/media/book-covers/hacking-with-macos-paul-hudson.png" alt="Book cover of Hacking With MacOS by Paul Hudson" width="126" height="196">](https://github.com/AlfinIndrawan/MyBooks/issues/5 "Hacking with macOS by Paul Hudson")
 
-
+[<img src="https://is3-ssl.mzstatic.com/image/thumb/Publication62/v4/b7/88/0c/b7880cd4-b3d8-0ccf-a067-f214df52f632/Cover.png/626x0w.webp" alt="Book cover of Objective-C for swift developers by Paul Hudson" width="126" height="196">](https://github.com/AlfinIndrawan/MyBooks/issues/6 "Objective-C for swift developers by Paul Hudson")
 
 
 ### ✅ Completed (non google books)
