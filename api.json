@@ -1,5 +1,31 @@
 [
   {
+    "title": "IOS App Distribution & Best Practices (First Edition)",
+    "authors": [
+      "Pietro Rea",
+      "raywenderlich Tutorial Team",
+      "Keegan Rush"
+    ],
+    "publisher": "Razeware LLC",
+    "publishedDate": "2021-04-21",
+    "description": "Sharing Apple Apps With Your Team, Testers & the World You'll learn how to sign up for Apple Developer Program, generate the various certificates needed, configure your app and submit an app to the App Store for approval, both manually and through automated processes through automated pipelines. You'll learn how to use Apple TestFlight to add internal and external testers and receive feedback and crash reports. iOS App Distribution starts with explaining hurdles everyone faces, such as code signing, provisioning profiles, and how to do manual releases. It'll then go into more advanced topics, including distribution through TestFlight, build customization, automation, and continuous integration. Who This Book Is For This book is for beginner to experienced developers who want to know the best and most common workflow to release an app to the App store, as well as limiting frustration by troubleshooting and debugging common issues and problems associated with distributing apps. Topics Covered in iOS App Distribution & Best Practices App Store quick start: Your quickest way from no account to the App Store. Provisioning, code signing & entitlements: In-depth explanation of what they are, why you need them, and how they work. Distribution channels & TestFlight: Learn different ways of distributing your app, within an enterprise, with internal or external testers. App Store Connect: Learn about the Apple review process, what are the guidelines, what can go wrong and how to dispute them. Build customizations: Learn the ins and outs of configuring Xcode and build configurations. Build automation: Automate builds, build servers, and learn about tools such as fastlane. Continuous integration: Build your own CI pipeline to code, build, test, release, and repeat! After reading this book, you'll take your app build process and distribution to the next level, automate most of its tedious processes, and have an easier time debugging obscure app submission problem",
+    "image": "http://books.google.com/books/content?id=6T6LzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 338,
+    "isbn10": "1950325156",
+    "isbn13": "9781950325153",
+    "googleBooks": {
+      "id": "6T6LzgEACAAJ",
+      "preview": "http://books.google.com/books?id=6T6LzgEACAAJ&dq=intitle:IOS+App+Distribution+%26+Best+Practices+(First+Edition):+Learn+to+Share+Apps+With+Teams,+Testers+%26+the+World&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=6T6LzgEACAAJ&dq=intitle:IOS+App+Distribution+%26+Best+Practices+(First+Edition):+Learn+to+Share+Apps+With+Teams,+Testers+%26+the+World&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/IOS_App_Distribution_Best_Practices_Firs.html?hl=&id=6T6LzgEACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-06-09T14:24:04.000Z"
+  },
+  {
     "title": "IOS Test-Driven Development by Tutorials (First Edition): Learn Real-World Test-Driven Development",
     "authors": [
       "Joshua Greene",

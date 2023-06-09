@@ -5,8 +5,9 @@ This repository is used to track the books I'm reading these days. **hover the b
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of IOS App Distribution & Best Practices (First Edition)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6T6LzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/8 "IOS App Distribution & Best Practices (First Edition) by Pietro Rea, raywenderlich Tutorial Team, Keegan Rush")
 [![Book cover of RxSwift (Fourth Edition)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUhmBzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/1 "RxSwift (Fourth Edition) by raywenderlich Tutorial Team, Junior Bontognali, Scott Gardner, Florent Pillet, Shai Mishali, Marin Todorov")
 
 ### ✅ Completed (1)
