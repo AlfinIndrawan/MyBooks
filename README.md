@@ -25,10 +25,8 @@ This repository is used to track the books I'm reading these days. **hover the b
 [<img src="https://is3-ssl.mzstatic.com/image/thumb/Publication62/v4/b7/88/0c/b7880cd4-b3d8-0ccf-a067-f214df52f632/Cover.png/626x0w.webp" alt="Book cover of Objective-C for swift developers by Paul Hudson" width="126" height="196">](https://github.com/AlfinIndrawan/MyBooks/issues/7 "Objective-C for swift developers by Paul Hudson")
 
 
-### ✅ Completed (non google books)
+### ✅ Completed (non google books)   
 
 
 
 - Powered by: [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action)
-
-[![Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action/blob/HEAD/assets/logo.svg)](https://github.com/AnandChowdhary/bookshelf-action)
