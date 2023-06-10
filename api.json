@@ -110,5 +110,32 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2023-06-09T13:18:59.000Z"
+  },
+  {
+    "title": "Ios Unit Testing by Example",
+    "authors": [
+      "Jon Reid"
+    ],
+    "publisher": "Pragmatic Bookshelf",
+    "publishedDate": "2019-12-05",
+    "description": "Fearlessly change the design of your iOS code with solid unit tests. Use Xcode's built-in test framework XCTest and Swift to get rapid feedback on all your code - including legacy code. Learn the tricks and techniques of testing all iOS code, especially view controllers (UIViewControllers), which are critical to iOS apps. Learn to isolate and replace dependencies in legacy code written without tests. Practice safe refactoring that makes these tests possible, and watch all your changes get verified quickly and automatically. Make even the boldest code changes with complete confidence. Manual code and UI testing get slower the deeper your navigation hierarchy goes. It can take several taps just to reach a particular screen, never mind the actual workflow tests. Automatic unit testing offers such rapid feedback that it can change the rules of development. Bring testing to iOS development, even for legacy code. Use XCTest to write unit tests in Swift for all your code. iOS developers typically reserve unit tests for their model classes alone. But that approach skips most of the code common to iOS apps, especially with UIViewControllers. Learn how to unit test these view controllers to expand your unit testing possibilities. Since good unit tests form the bedrock for safe refactoring, you're empowered to make bold changes. Learn how to avoid the most common mistakes Swift programmers make with the XCTest framework. Use code coverage to find holes in your test suites. Learn how to identify hard dependencies. Reshape the design of your code quickly, with less risk and less fear.",
+    "image": "http://books.google.com/books/content?id=9qmsxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 300,
+    "isbn10": "1680506811",
+    "isbn13": "9781680506815",
+    "googleBooks": {
+      "id": "9qmsxAEACAAJ",
+      "preview": "http://books.google.com/books?id=9qmsxAEACAAJ&dq=intitle:IOS+unit+testing+by+example+by+Jon+Reid&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=9qmsxAEACAAJ&dq=intitle:IOS+unit+testing+by+example+by+Jon+Reid&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Ios_Unit_Testing_by_Example.html?hl=&id=9qmsxAEACAAJ"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2020-09-10T00:00:00.000Z"
   }
 ]
