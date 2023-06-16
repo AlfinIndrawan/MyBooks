@@ -2,7 +2,7 @@
 
 This repository is used to track the books I'm reading these days. **hover the book** to see the progress
 
-**see my notes** in the notes - <BookName>.readme
+**see my notes** in the notes - "BookName".readme
 
 ## 📖 My bookshelf
 
