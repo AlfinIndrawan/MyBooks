@@ -7,13 +7,13 @@ This repository is used to track the books I'm reading these days. **hover the b
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (1)
 
 [![IOS App Distribution & Best Practices (First Edition)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6T6LzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/8 "IOS App Distribution & Best Practices (First Edition) by Pietro Rea, raywenderlich Tutorial Team, Keegan Rush")
-[![RxSwift (Fourth Edition)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUhmBzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/1 "RxSwift (Fourth Edition) by raywenderlich Tutorial Team, Junior Bontognali, Scott Gardner, Florent Pillet, Shai Mishali, Marin Todorov")
 
-### ✅ Completed (1)
+### ✅ Completed (2)
 
+[![RxSwift (Fourth Edition)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUhmBzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/1 "RxSwift (Fourth Edition) by raywenderlich Tutorial Team, Junior Bontognali, Scott Gardner, Florent Pillet, Shai Mishali, Marin Todorov completed in 1 year on March 2025")
 [![iOS 15 Programming for Beginners](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-J1WEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AlfinIndrawan/MyBooks/issues/2 "iOS 15 Programming for Beginners by Ahmad Sahar, Craig Clayton completed in 1 minute on June 2023")
 
 ### ⏭️ Want to Read (2)
